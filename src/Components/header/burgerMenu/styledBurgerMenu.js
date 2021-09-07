@@ -13,7 +13,7 @@ const StyledBurgerMenu = styled.div`
     color: salmon;
   }
   .bm-burger-button {
-    position: fixed;
+    position: absolute;
     width: 36px;
     height: 30px;
     right: 36px;

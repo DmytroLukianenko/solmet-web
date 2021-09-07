@@ -19,6 +19,7 @@ html {
 body {
     margin: 0;
     padding: 0;
+    /* background-color:#b3d6f7; */
     margin-right: auto;
     margin-left: auto;
     font-family: 'Hind Siliguri', sans-serif;
